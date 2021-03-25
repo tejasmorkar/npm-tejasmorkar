@@ -1,0 +1,25 @@
+{
+  "name": "tejasmorkar",
+  "version": "1.0.0",
+  "description": "Get to know more about Tejas Morkar, a developer from India.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasmorkar/npm-tejasmorkar.git"
+  },
+  "keywords": [
+    "tejas",
+    "morkar",
+    "tejasmorkar",
+    "developer"
+  ],
+  "author": "tejasmorkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejasmorkar/npm-tejasmorkar/issues"
+  },
+  "homepage": "https://github.com/tejasmorkar/npm-tejasmorkar#readme"
+}
